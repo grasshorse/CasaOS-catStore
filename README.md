@@ -2,6 +2,9 @@
 
 [![GitHub issues by-label](https://img.shields.io/github/issues/IceWhaleTech/CasaOS-AppStore/help%20wanted?label=help%20wanted&style=for-the-badge)](https://github.com/IceWhaleTech/CasaOS-AppStore/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![GitHub contributors](https://img.shields.io/github/contributors/IceWhaleTech/CasaOS-AppStore?style=for-the-badge)](https://github.com/IceWhaleTech/CasaOS-AppStore/graphs/contributors)
 
+- Testing with CasaOS-catStore repo - ghadmin
+- tbd
+
 CasaOS AppStore needs your help to grow:
 
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute CasaOS Apps in Docker Compose format.
