@@ -1,5 +1,5 @@
-# Name of the configuration: CasaOS-catStore
-name: CasaOS-catStore
+# Name of the configuration: casaos-catstore
+name: casaos-catstore
 
 # Define the services required for the application
 services:
@@ -111,6 +111,6 @@ x-casaos:
   title:
     en_us: Guacamole
   # Application category
-  category: CasaOS-catStore
+  category: casaos-catstore
   # Port mapping information
   port_map: "8090"
