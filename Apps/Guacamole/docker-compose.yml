@@ -102,7 +102,7 @@ x-casaos:
   # Developer's name or identifier (currently empty)
   developer: ""
   # Author of this configuration
-  author: BigBearTechWorld
+  author: ghadminCasaOScatStore
   # Icon for the application
   icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/guacamole.png
   # Thumbnail image (currently empty)
