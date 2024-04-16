@@ -48,10 +48,10 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB2 }}
         with:
           source-directory: 'pages'
-          destination-github-username: 'IceWhaleTech'
-          destination-repository-name: 'CasaOS-AppStore'
+          destination-github-username: 'grasshorse'
+          destination-repository-name: 'CasaOS-catStore'
           target-branch: 'gh-pages'
-          user-email: wiki@casaos.io
+          user-email: ghadmin@horseoff.com
           target-directory: ''
 
       - name: Upload to oss
